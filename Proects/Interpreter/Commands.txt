@@ -1,0 +1,5 @@
+﻿var a
+var b
+add a, 10
+sub b, 5
+div a, b
